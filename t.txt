@@ -3,9 +3,19 @@
 5
 
 HEAD
+HEAD
 Hello hoang
 
 Hello hoang bu
 
 edit in new branch
 fix_bugs
+
+fix_bugs
+Hello hoang bu
+
+edit in new branch
+
+Hello hoang
+main
+0fde8fc3652c0132ddfe95b11c966f1aa9f3f7e7
