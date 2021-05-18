@@ -2,6 +2,10 @@
 34
 5
 
+fix_bugs
 Hello hoang bu
 
 edit in new branch
+
+Hello hoang
+main
